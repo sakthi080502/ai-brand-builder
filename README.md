@@ -87,6 +87,31 @@ Each image is consistent and aligned with the identity.
 
 Smooth animations via Motion
 
+Why I Built This
+Building the Brand Builder App allowed me to explore how AI can automate creative workflows that traditionally require multiple tools and design skills. I wanted to create a system where a simple product description could instantly become a full visual campaign, demonstrating how AI can support branding, marketing, and product visualization. This project also helped me strengthen my skills in prompt engineering, model orchest
+
+Live Demo
+You can try the live version of the Brand Builder App here:
+
+👉 https://aistudio.google.com/apps/50380283-f1b3-4d34-9e0a-98e0b9f98677?showAssistant=true&showPreview=true
+
+This link lets recruiters interact with the app directly, making it a powerful addition to your portfolio.
+
+Future Improvements
+Add selectable visual styles (cinematic, minimalist, retro, neon, corporate)
+
+Add a brand‑guidelines generator (fonts, colors, tone of voice)
+
+Add automatic copywriting for each campaign asset
+
+Add a “Download All Assets” bundle button
+
+Add color palette extraction from the generated images
+
+Add support for additional mediums (website hero banner, packaging mockup, product card)
+
+Add a history panel so users can compare multiple versions
+
 <img width="1344" height="768" alt="brand-billboard" src="https://github.com/user-attachments/assets/5c663950-dd33-4146-a55b-a6906c53b912" />
 
 <img width="864" height="1184" alt="brand-newspaper" src="https://github.com/user-attachments/assets/e4a5e1a3-23c2-42ac-98f2-b50a94808bd9" />
